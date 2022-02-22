@@ -1,4 +1,4 @@
- # for reproducibility when generating the folds
+# for reproducibility when generating the folds
 seed = 125 
 
 #load time series, calculate the correlation matrices, substract 1 from diagonal and and randomize input data
